@@ -16,6 +16,7 @@ csv_files = {
     'Masters.csv': 'Master',
     'Positions.csv': 'Position',
     'Salons.csv': 'Salon',
+    'Services.csv': 'Service',
     'Clients.csv': 'Client',
     'Promotion.csv': 'Promotion',
     'Registration.csv': 'Registration',
