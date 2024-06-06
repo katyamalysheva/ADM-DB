@@ -5,12 +5,9 @@ This repository contains scripts and data for generating and managing a salon ma
 
 ## Table of Contents
 - [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [Database Schema](#database-schema)
 - [Data Generation](#data-generation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Structure
 The repository is organized as follows:
