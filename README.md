@@ -15,10 +15,10 @@ The repository is organized as follows:
 
 ├── csv/ # Directory containing CSV files <br>
 ├── sql/ # Directory containing SQL scripts  <br>
-├── \*script*.py # Directory containing Python scripts for data generation
-├── salon_management.db # SQLite database file
-├── README.md # This README file
-├── Master Data.ipynb # Master Data notebook with Golden Records
+├── \*script*.py # Directory containing Python scripts for data generation <br>
+├── salon_management.db # SQLite database file <br>
+├── README.md # This README file <br>
+├── Master Data.ipynb # Master Data notebook with Golden Records <br>
 
 ## Dependencies
 The project requires the following Python packages:
