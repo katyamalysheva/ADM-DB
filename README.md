@@ -8,6 +8,7 @@ This repository contains scripts and data for generating and managing a salon ma
 - [Dependencies](#dependencies)
 - [Database Schema](#database-schema)
 - [Data Generation](#data-generation)
+- [Master Data](#master_data)
 
 ## Project Structure
 The repository is organized as follows:
@@ -17,6 +18,7 @@ The repository is organized as follows:
 ├── \*script*.py # Directory containing Python scripts for data generation
 ├── salon_management.db # SQLite database file
 ├── README.md # This README file
+├── Master Data.ipynb # Master Data notebook with Golden Records
 
 ## Dependencies
 The project requires the following Python packages:
@@ -48,3 +50,6 @@ The data used to populate the database is generated using various Python scripts
 - **Schedule.py**: Creates schedule data for masters.
 - **Service_Registration.py**: Links services to registrations.
 - **Services.py**: Generates data for available services.
+
+## Master Data
+This script loads data from CSV files, normalizes phone numbers and formats addresses. The cleaned data is then saved back to the original CSV files.
