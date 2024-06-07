@@ -8,7 +8,7 @@ This repository contains scripts and data for generating and managing a salon ma
 - [Dependencies](#dependencies)
 - [Database Schema](#database-schema)
 - [Data Generation](#data-generation)
-- [Master Data](#master_data)
+- [Master Data](#master-data)
 
 ## Project Structure
 The repository is organized as follows:
